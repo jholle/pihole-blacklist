@@ -4,3 +4,9 @@
 0.0.0.0 www.youtube.com
 0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 googlevideo.com
+0.0.0.0 rr1.sn-5uaeznse.googlevideo.com
+0.0.0.0 rr1—sn-5uaeznse.googlevideo.com
+0.0.0.0 rr2.sn-5ualdns7.googlevideo.com
+0.0.0.0 rr2---sn-5ualdns7.googlevideo.com
+0.0.0.0 rr5.sn-5uaezn16.googlevideo.com
+0.0.0.0 rr5---sn-5uaezn16.googlevideo.com
